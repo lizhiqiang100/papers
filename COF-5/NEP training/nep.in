@@ -1,0 +1,12 @@
+version		3
+type		4 B O C H 
+cutoff		6 4
+n_max		12 8
+basis_size  12 8
+l_max		4 2
+neuron      80
+lambda_1    0.1
+lambda_2    0.1
+batch       1000
+population  80
+generation  200000
